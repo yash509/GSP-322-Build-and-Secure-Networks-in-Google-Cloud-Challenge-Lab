@@ -1,10 +1,10 @@
-Task 1 : Remove the overly permissive rules:
+Task 1 :: Remove the overly permissive rules:
 
 gcloud compute firewall-rules delete open-access
 
 
 
-Task 2 : Start the bastion host instance:
+Task 2 :: Start the bastion host instance:
 
 Go to Compute Engine and start Bastion instance.
 

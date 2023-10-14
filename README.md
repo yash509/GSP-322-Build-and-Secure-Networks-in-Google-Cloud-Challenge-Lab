@@ -1,1 +1,1 @@
-# GSP-322-Build-and-Secure-Networks-in-Google-Cloud-Challenge-Lab
+# GSP-322-Build-and--Secure-Networks--in-Google-Cloud-Challenge-Lab
